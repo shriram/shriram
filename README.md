@@ -6,8 +6,6 @@ This isn't my home page. Instead please see [my work page](https://cs.brown.edu/
 
 ## Some of my repositories
 
-### Some useful Racket code
-
 ### Book-related
 
 [Public repository for PLAI](https://github.com/shriram/plai-public)
