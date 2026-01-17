@@ -30,9 +30,7 @@ This isn't my home page. Instead please see [my work page](https://cs.brown.edu/
 
 [P4P](https://github.com/shriram/p4p), an alternate syntax for Racket, buit entirely using Racket macros, with one cool hack…
 
-### Systems for useful things
-
-Most of these were created for private use and are thus not particularly documented, but if you find them useful, let me know and I can probably improve/generalize/document them!
+### Research and teaching
 
 [SMoL](https://github.com/shriram/smol), the Standard Model of Languages
 
@@ -42,11 +40,15 @@ Most of these were created for private use and are thus not particularly documen
 
 [Gradescope autograder for Racket](https://github.com/shriram/gradescope-racket)
 
+[Porpoise](https://github.com/shriram/porpoise), a tool that uses LLMs to evaluate purpose statements
+
+### Systems for useful things
+
+Most of these were created for private use and are thus not particularly documented, but if you find them useful, let me know and I can probably improve/generalize/document them!
+
 [Philbin](https://github.com/shriram/philbin), using LLMs to generate regular expressions from data selections
 
 [Assigning students to labs](https://github.com/shriram/lab-assign)
-
-[Porpoise](https://github.com/shriram/porpoise), a tool that uses LLMs to evaluate purpose statements
 
 [Scribble embedding](https://github.com/shriram/scribble-embedding), libraries to embed third-party tools inside Scribble documents
 
@@ -55,6 +57,8 @@ Most of these were created for private use and are thus not particularly documen
 [Windows task monitor](https://github.com/shriram/wink), from 2010, almost certainly of no use any longer
 
 [instaBRIC](https://github.com/shriram/instaBRIC), for those who want to become international affairs pundits but need help finding country-initial combos that spell words
+
+[Trip planner](https://github.com/shriram/trip-planner/), for planning my trips
 
 ### Scientific community
 
