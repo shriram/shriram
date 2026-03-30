@@ -60,6 +60,8 @@ Most of these were created for private use and are thus not particularly documen
 
 [Trip planner](https://github.com/shriram/trip-planner/), for planning my trips
 
+[find-float](https://github.com/shriram/find-float), to find combinations of numbers and operations that will produce (unexpected) floating-point results
+
 ### Scientific community
 
 [Reproducibility in CS](https://github.com/shriram/repro-in-cs), a large crowd-sourced project to check claims about (ir)reproducibility
