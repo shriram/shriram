@@ -12,23 +12,25 @@ This isn't my home page. Instead please see [my work page](https://cs.brown.edu/
 
 [Public repository for DCIC](https://github.com/data-centric-computing/dcic-public/)
 
-### Languages and extensions built atop Racket
+### Useful Racket extensions
+
+[Embedding images as text inside Racket](https://github.com/shriram/racket-embed-images-in-source-text)
+
+[cas-cad-e](https://github.com/shriram/cas-cad-e), to write cascading `case` expressions in Racket
+
+[P4P](https://github.com/shriram/p4p), an alternate syntax for Racket, buit entirely using Racket macros, with one cool hack…
+
+### Useless Racket extensions
 
 [Anonymous recursive functions](https://github.com/shriram/anonymous-recursive-function), because there are never enough ways to recur
 
 [lambda-n](https://github.com/shriram/lambda-n), because who needs named parameters, anyway?
 
-[Embedding images as text inside Racket](https://github.com/shriram/racket-embed-images-in-source-text)
-
 [XKCD 3062](https://github.com/shriram/xkcd-3062)
 
+[succ](https://github.com/shriram/succ), for writing numbers in successor notation: why should only `c(a|d)*r` have all the fun?
+
 [Roman numerals](https://github.com/shriram/roman-numerals), for Racket programmers who want the best of both worlds: elegant capital whole numbers, *and* division
-
-[Write successors to arbitrary depth in Racket](https://github.com/shriram/succ)
-
-[cas-cad-e](https://github.com/shriram/cas-cad-e), to write cascading `case` expressions in Racket
-
-[P4P](https://github.com/shriram/p4p), an alternate syntax for Racket, buit entirely using Racket macros, with one cool hack…
 
 ### Research and teaching
 
